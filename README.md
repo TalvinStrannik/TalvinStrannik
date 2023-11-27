@@ -14,6 +14,7 @@ I utilize various tools and technologies in my projects, including:
 - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=013243)
 - ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&labelColor=276DC3)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white&labelColor=4479A1)
 - ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&labelColor=239120)
@@ -26,12 +27,12 @@ This repository contains several projects in various stages of completion.
 Fully completed projects:
 
 - [Spiking-Neuron-Model-For-Embedded-Systems](https://github.com/TalvinStrannik/Spiking-Neuron-Model-For-Embedded-Systems): Joint project with S. Yablonsky and V. Lutkovsky.We developed and proposed a new spiking neural model.
-- [Methods-of-Molecular-Dynamics-in-Platform-Ruspberry-Pi-4]([link_to_project_2](https://github.com/TalvinStrannik/Methods-of-Molecular-Dynamics-in-Platform-Ruspberry-Pi-4)): Joint project with K. Kolesnikov. We simulated the operation of the Monte Carlo method on the Raspberry Pi4 platform.
+- [Methods-of-Molecular-Dynamics-in-Platform-Ruspberry-Pi-4](https://github.com/TalvinStrannik/Methods-of-Molecular-Dynamics-in-Platform-Ruspberry-Pi-4): Joint project with K. Kolesnikov. We simulated the operation of the Monte Carlo method on the Raspberry Pi4 platform.
 
 Projects I'm working on:
   
-- [Tattooing-on-The-Body]([link_to_project_3](https://github.com/TalvinStrannik/Tattooing-on-The-Body)): Personal work with the interesting direction of Diffusion Models.
-- [Determination-of-SNP-Sites-In-Human-DNA-genes-Using-Machine-Learning-Methods]([https://github.com/TalvinStrannik/Determination-of-SNP-Sites-In-Human-DNA-genes-Using-Machine-Learning-Methods#determination-of-snp-sites-in-human-dna-genes-using-machine-learning-methods]): The topic of my course work. Complex and interesting at the same time
+- [Tattooing-on-The-Body](https://github.com/TalvinStrannik/Tattooing-on-The-Body): Personal work with the interesting direction of Diffusion Models.
+- [Determination-of-SNP-Sites-In-Human-DNA-genes-Using-Machine-Learning-Methods](https://github.com/TalvinStrannik/Determination-of-SNP-Sites-In-Human-DNA-genes-Using-Machine-Learning-Methods#determination-of-snp-sites-in-human-dna-genes-using-machine-learning-methods): The topic of my course work. Complex and interesting at the same time
 
 ## Contact
 
