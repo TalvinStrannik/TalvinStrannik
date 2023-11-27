@@ -1,6 +1,6 @@
 # Data Scientist Profile
 
-Hi there! My name is [Dzianis Sarnatski], and I want to become a Data Scientist. In this repository, I share my projects, research, and skills in data analysis.
+Hi there! My name is Dzianis Sarnatski, and I want to become a Data Scientist. In this repository, I share my projects, research, and skills in data analysis.
 
 ## About Me
 
@@ -34,7 +34,7 @@ Some of my projects include:
 If you have any questions, suggestions, or would like to discuss potential collaborations, feel free to reach out to me:
 
 - Telegram: [@TalvinStrannik](https://t.me/TalvinStrannik)
-- Email[denisiussarnatski@gmail.com](mailto:denisiussarnatski@gmail.com)
+- Email [denisiussarnatski@gmail.com](mailto:denisiussarnatski@gmail.com)
 - Phone: [+375295428437](tel:+375295428437)
 
 
