@@ -25,7 +25,7 @@ This repository contains several projects in various stages of completion.
 
 Fully completed projects:
 
-- [Spiking-Neuron-Model-For-Embedded-Systems]([https://github.com/TalvinStrannik/Spiking-Neuron-Model-For-Embedded-Systems]): Joint project with S. Yablonsky and V. Lutkovsky.We developed and proposed a new spiking neural model.
+- [Spiking-Neuron-Model-For-Embedded-Systems](https://github.com/TalvinStrannik/Spiking-Neuron-Model-For-Embedded-Systems): Joint project with S. Yablonsky and V. Lutkovsky.We developed and proposed a new spiking neural model.
 - [Methods-of-Molecular-Dynamics-in-Platform-Ruspberry-Pi-4]([link_to_project_2](https://github.com/TalvinStrannik/Methods-of-Molecular-Dynamics-in-Platform-Ruspberry-Pi-4)): Joint project with K. Kolesnikov. We simulated the operation of the Monte Carlo method on the Raspberry Pi4 platform.
 
 Projects I'm working on:
