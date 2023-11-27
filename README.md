@@ -23,11 +23,15 @@ I utilize various tools and technologies in my projects, including:
 
 This repository contains several projects in various stages of completion.
 
-Some of my projects include:
+Fully completed projects:
 
-- [Project 1](link_to_project_1): Brief description of project 1.
-- [Project 2](link_to_project_2): Brief description of project 2.
-- [Project 3](link_to_project_3): Brief description of project 3.
+- [Spiking-Neuron-Model-For-Embedded-Systems]([link_to_project_1](https://github.com/TalvinStrannik/Spiking-Neuron-Model-For-Embedded-Systems)): Joint project with S. Yablonsky and V. Lutkovsky.We developed and proposed a new spiking neural model.
+- [Methods-of-Molecular-Dynamics-in-Platform-Ruspberry-Pi-4]([link_to_project_2](https://github.com/TalvinStrannik/Methods-of-Molecular-Dynamics-in-Platform-Ruspberry-Pi-4)): Joint project with K. Kolesnikov. We simulated the operation of the Monte Carlo method on the Raspberry Pi4 platform.
+
+  Projects I'm working on:
+  
+- [Tattooing-on-The-Body]([link_to_project_3](https://github.com/TalvinStrannik/Tattooing-on-The-Body)): Personal work with the interesting direction of Diffusion Models.
+- [Determination-of-SNP-Sites-In-Human-DNA-genes-Using-Machine-Learning-Methods]([https://github.com/TalvinStrannik/Determination-of-SNP-Sites-In-Human-DNA-genes-Using-Machine-Learning-Methods#determination-of-snp-sites-in-human-dna-genes-using-machine-learning-methods]): The topic of my course work. Complex and interesting at the same time
 
 ## Contact
 
