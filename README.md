@@ -17,7 +17,6 @@ I utilize various tools and technologies in my projects, including:
 - ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&labelColor=276DC3)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white&labelColor=4479A1)
 - ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&labelColor=239120)
 
 
 ## Projects
