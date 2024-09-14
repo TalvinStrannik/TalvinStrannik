@@ -1,4 +1,4 @@
-# Data Scientist Profile
+# My Profile
 
 Hi there! In this repository, I share projects, research, and skills in data analysis.
 
