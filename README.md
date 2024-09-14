@@ -1,10 +1,10 @@
 # Data Scientist Profile
 
-Hi there! My name is Dzianis Sarnatski, and I want to become a Data Scientist. In this repository, I share my projects, research, and skills in data analysis.
+Hi there! In this repository, I share projects, research, and skills in data analysis.
 
 ## About Me
 
-I really love mathematics and hardware! Therefore, this repository has a special focus on machine learning and data analytics projects on hardware platforms. I love to come up with and try to implement different projects! Some are only in the beginning stages. While working on projects, I learned how to work in a team and mastered business communication skills!
+I'm too lazy to fill it out...
 
 I utilize various tools and technologies in my projects, including:
 
@@ -13,7 +13,6 @@ I utilize various tools and technologies in my projects, including:
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=150458)
 - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=013243)
 - ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
 - ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&labelColor=276DC3)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white&labelColor=4479A1)
 - ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
