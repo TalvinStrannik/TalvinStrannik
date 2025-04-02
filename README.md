@@ -1,10 +1,8 @@
 # My Profile
 
-Hi there! In this repository, I share projects, research, and skills in data analysis.
+In this repository, I share projects, research, and skills in data analysis.
 
 ## About Me
-
-I'm too lazy to fill it out...
 
 I utilize various tools and technologies in my projects, including:
 
